@@ -1,0 +1,1 @@
+<img src="https://github.com/TsarevichD/DemoPoloniex/blob/master/SimulatorScreen Shot.png?raw=true" alt="image" width="300"/>
